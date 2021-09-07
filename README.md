@@ -1,2 +1,2 @@
-# cpp-course
+# C / Cpp Course
  
