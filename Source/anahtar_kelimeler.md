@@ -6,13 +6,15 @@
 
 3. **undefined behavior -tanimsiz davranis**
 
-4. **unspecifed behavior**
+4. **unspecified behavior**
 
    1. **implementation defined**
 
    =============
 
 6. statement
+
+6. declaration
 
 7. expresion
 
@@ -33,7 +35,7 @@
 15. user define types
     1. structures
     2. unions
-    3. enumarations
+    3. enumerations
 
 16. empty class
 
