@@ -86,3 +86,20 @@ ADL argument dependent lookup
 
 scoping rules
 
+-ilk deger verme turleri/cesitleri
+
+* *copy initialize*
+
+* *default initialize*
+
+* *zero initialize*
+
+* *direct initialize*
+
+* *uniform initialize*
+
+* *value initialize*
+
+narrowing conversion
+
+operator overloading
