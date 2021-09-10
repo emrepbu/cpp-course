@@ -2,7 +2,7 @@ namelookup
 
 identifier
 
-** **undefined behavior**
+**undefined behavior**
 
 unspecified behavior
 
@@ -38,7 +38,7 @@ const anahtar sozcugu ve pointer degiskenleri bildirimi
 
 empty class
 
-** **type deduction**
+**type deduction**
 
 tur cikarimi(auto)
 
