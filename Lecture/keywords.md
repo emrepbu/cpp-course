@@ -1,6 +1,6 @@
 # Bunlari arastir ve incele
 
-namelookup
+**namelookup**
 
 identifier
 
